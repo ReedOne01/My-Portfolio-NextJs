@@ -42,7 +42,8 @@ export default function Home() {
             <li>
               <a
                 className=" cursor-pointer bg-gradient-to-br from-cyan-500 to-teal-500 text-white ml-4 px-6 py-2 rounded-md"
-                href="#"
+                href="/cv.pdf"
+                download="Bello's CV"
               >
                 Resume
               </a>
